@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="red-admin" />
+        <module name="red-auth" />
+        <module name="red-common" />
+        <module name="red-control" />
+        <module name="red-core" />
+        <module name="red-gateway" />
+        <module name="red-quartz" />
+        <module name="redadmin" />
+        <module name="redauth" />
+        <module name="redcommon" />
+        <module name="redcontrol" />
+        <module name="redcore" />
+        <module name="redgateway" />
+        <module name="redquartz" />
+        <module name="redtest1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="red-testq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
